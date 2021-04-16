@@ -1,0 +1,2 @@
+language = "cpp"
+run = "./tp10_smp.out"
